@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos",
+      "empresa": "Chilango-Valley",
+      "mail": "charly@chilango-valley.com",
+      "telefono": "5517983022",
+      "notas": "Es un TEST\n",
+      "id": 1
+    },
+    {
+      "nombre": "Felip",
+      "empresa": "Chilango-Valley",
+      "mail": "filip@chilango-valley.com",
+      "telefono": "5517983022",
+      "notas": "Es un TEST mas",
+      "id": 2
+    },
+    {
+      "nombre": "Sandy",
+      "empresa": "Chilango-Valley",
+      "mail": "sandy@chilango-valley.com",
+      "telefono": "5517983022",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
